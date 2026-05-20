@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "ab4e7de1814b28f352f9f692cde5387df448ccf2",
+  "prompts": {
+    "03d1dc8c363caa15": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1bab045aaffeW6uDHZqvaZEYpL",
+        "model": "openai/gpt-5.5"
+      },
+      "human_author": "Dmitry Alexeenko",
+      "messages": [],
+      "total_additions": 15758,
+      "total_deletions": 16015,
+      "accepted_lines": 15758,
+      "overriden_lines": 0
+    }
+  }
+}
